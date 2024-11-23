@@ -4,6 +4,10 @@
   }
 }
 
+#zen-sidebar-splitter {
+  display: none !important;
+}
+
 /* Highlight urlbar when loading the page */
 #nav-bar {
   #urlbar:not([breakout-extend="true"]) { /* Unless urlbar is opened */
@@ -202,6 +206,7 @@
     #zen-essentials-container {
       padding-bottom: 7px !important;
       padding-top: 4px !important;
+      padding-right: 4px !important;
     }
     
     #zen-essentials-container  .tab-content {
@@ -210,7 +215,8 @@
 
     #tabbrowser-arrowscrollbox {
       border-top: 1px solid #3d5461 !important;
-      padding-top: 7px;      
+      padding-top: 7px;   
+      padding-right: 4px; 
     }
     
     #zen-current-workspace-indicator {
