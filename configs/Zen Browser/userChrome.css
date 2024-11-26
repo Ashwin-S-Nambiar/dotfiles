@@ -227,7 +227,7 @@
       display: block !important;
       position: fixed;
       padding: 3px !important;
-      transform: translateX(25%) translateY(2153%) !important;
+      transform: translateX(12%) translateY(2169%) !important;
     }
     
     /* Hide Bookmarks Bar */
@@ -271,6 +271,7 @@
     
     #navigator-toolbox {
       padding-top: 38px !important;
+      padding-bottom: 0px !important;
     }
     
     #urlbar {
