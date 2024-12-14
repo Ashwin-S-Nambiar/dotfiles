@@ -8,8 +8,74 @@
   display: none !important;
 }
 
+/* Animated gradient tab when loading the page */
+.tabbrowser-tab {
+  .tab-background::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, #ff6b6b66, #4ecdc466, #ff6b6b66);
+    background-size: 400% 100%;
+    animation: tab-loading-gradient 3s linear reverse infinite;
+    animation-play-state: paused;
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+
+  &[busy="true"] {
+    .tab-background::before {
+      animation-play-state: running;
+      opacity: 1;
+    }
+  }
+
+  &:not([selected]) {
+    .tab-background::before {
+      border-radius: var(--tab-border-radius);
+      margin: var(--tab-block-margin);
+    }
+  }
+
+  &[zen-essential="true"] {
+    .tab-background::before {
+      margin: 0;
+    }
+  }
+}
+@keyframes tab-loading-gradient {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 400% 0%; }
+}
+
+/* Animate new tab appear animation *//*Cool*/
+#vertical-pinned-tabs-container, #tabbrowser-arrowscrollbox {
+  .tabbrowser-tab {
+    animation: new-tab-appear 0.75s cubic-bezier(0.4, 0.0, 0.2, 1) !important;
+  }
+}
+
+@keyframes new-tab-appear { 
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  60% {
+    opacity: 0.8  ;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tabbrowser-tab .tab-background{
+    transition: background-color 0.5s ease;
+}
+
 #identity-box {
-  margin-right: 0.5em !important;
+  margin-right: 0.25em !important;
+  transition: margin-right ease-in-out 0.3s !important;
   &:hover {
     margin-right: 0 !important;
   }
@@ -246,6 +312,8 @@ tab-group {
   }
   }
 }
+
 tab-group:has(tab[hidden]){
   display: none !important;
+}
 }
