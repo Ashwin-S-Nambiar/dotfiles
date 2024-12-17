@@ -12,6 +12,10 @@
   clip-path: inset(0% 0% 0% 0% round 9px) !important;
 }
 
+#urlbar-background {
+  border: 1px solid #837b92 !important;
+  border-radius: 16px !important;
+}
 
 /* Animated gradient tab when loading the page */
 .tabbrowser-tab {
@@ -76,14 +80,6 @@
 
 .tabbrowser-tab .tab-background{
     transition: background-color 0.5s ease;
-}
-
-#identity-box {
-  margin-right: 0.25em !important;
-  transition: margin-right ease-in-out 0.3s !important;
-  &:hover {
-    margin-right: 0 !important;
-  }
 }
 
 /* makes the browser transparent*/
@@ -200,6 +196,7 @@
     opacity: 0;
     transition: opacity 0.25s;
     z-index: -1;
+    border-radius: 16px !important;
   }
 }
 
@@ -317,9 +314,7 @@ tab-group {
   }
   }
 }
-
 tab-group:has(tab[hidden]){
   display: none !important;
 }
-
 }  
