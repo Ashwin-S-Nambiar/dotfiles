@@ -1,0 +1,694 @@
+[
+  {
+    "id": "a9f62099-a8c2-4740-9284-82eeec6147b8",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "203b7eaf-11c3-4612-9602-95ce322d31f9",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
+        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "netflix_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "netflix_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "1ef30b53-13d7-48d8-b390-07e4b1180a53",
+        "title": "HBO Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+        "coverImageUrl": "https://i.postimg.cc/JyxzPDPF/HBO-Max.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "hbo_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "hbo_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "83668e47-a169-4d4d-91ef-a11816d56938",
+        "title": "Apple TV",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "apple_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "apple_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "5128d87e-a4cf-44b9-aa2d-5c0f9381b61a",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
+        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "amazon_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "amazon_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "a6292c99-7112-4f29-8f30-5d8f904fb152",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "disney_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "disney_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-d6e1d0be",
+        "title": "Crunchyroll",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/6a5b95d56c7a12c7262bd957914edbfd/9036f92d61b5163b-b9/s640x960/1a11b52b9d6344d36a4ae6089f7e611ae19b168a.gifv",
+        "coverImageUrl": "https://i.postimg.cc/4KWVPy1J/Crunchyroll.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "crunchyroll_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "crunchyroll_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-76cb2f14",
+        "title": "Paramount+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media.licdn.com/dms/image/v2/C4D22AQF_7RUQ_BodOw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1651179188686?e=1777507200&v=beta&t=-WxvikPQyaA1GAvbTwYVXgKM6s3WqtvQRpLGUf9zgy0",
+        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "paramount_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "paramount_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-19fcd1c9",
+        "title": "Peacock",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/a378bf124ed7d00c8d7430cb8a9ae0cc/9e0da9dbc32641f6-b2/s1280x1920/e8c0ba2f6aadae5b6f532a177926528e94b04d68.gifv",
+        "coverImageUrl": "https://i.postimg.cc/85QfkLW7/Peacock.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "peacock_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "peacock_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-78054d49",
+        "title": "Hulu",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/3a7015de27b570e421a0182a66d0a69b/0ec3a7379449b39d-2d/s1280x1920/962f0dcfa0a2458bd6bf923ff47776f2404bf43a.gifv",
+        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "hulu_movies"
+          },
+          {
+            "type": "series",
+            "addonId": "org.kris.ultramax.custom.94715D4A",
+            "catalogId": "hulu_series"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-73124bbd",
+    "title": "Studios",
+    "folders": [
+      {
+        "id": "folder-1e74bb37",
+        "title": "A24",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/A24.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-e523bb11-7648-434b-b5e1-53306ba51ee0"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-14e87a5a",
+        "title": "20th Century Studios",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/20th%20Century%20Studios.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-d3ab4562-11ab-44ef-ae59-8ec7b22f5192"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-4cadfdf0",
+        "title": "Columbia Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Columbia%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-901b827b-4ffb-4a44-b810-16421ed24111"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-c46cc817",
+        "title": "Sony Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Sony%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-ba625828-88d1-4140-9172-13eeb49f7ff5"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-1c8af22f",
+        "title": "Legendary",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Legendary.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-3b6d4db4-87d2-4b99-8e35-e98035844df7"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-b3476c2c",
+        "title": "Universal Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Universal%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-6878e3a5-3185-47a6-9bc4-9bf1d953754f"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-340847fd",
+        "title": "Warner Bros. Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Warner%20Bros.%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-7253eeb1-1775-4a4e-9f53-61d05a3dc363"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-2aeb71e3",
+        "title": "Walt Disney Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Walt%20Disney%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-9eb92d1f-fb59-4d40-86a7-8e9da43ce781"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ae9a6ac2",
+        "title": "Lionsgate",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Lionsgate.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-d6dcd145-596f-4da7-aece-073f6c3532f8"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-96a0278a",
+        "title": "New Line CInema",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/New%20Line%20Cinema.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-0c0e72e9-529c-4df5-b276-89d57b8a1bb9"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-83ee7f7a",
+        "title": "Paramount Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Paramount%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-6ffda6d1-397e-4c50-8635-4bdaa9486a73"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-20ccfaf3",
+        "title": "Metro Goldwyn Mayer",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Metro-Goldwyn-Mayer.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-21da87c6-c3c8-4498-84e6-65fdc8cd8193"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-91af31f0",
+        "title": "DreamWorks Pictures",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/DreamWorks%20Pictures.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-21da87c6-c3c8-4498-84e6-65fdc8cd8193"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6b9faa11",
+        "title": "Lucasfilm Ltd.",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Lucasfilm%20Ltd..png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-b4bc5559-6f57-41ad-9b08-5c9b6b7fb878"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-145921f4",
+        "title": "Pixar",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Pixar%20Animation%20Studios.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-9a716185-8dad-4efe-85d0-d4df25a83b0e"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-5d3b4813",
+        "title": "DC",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/DC.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-dc11f7f3-daf0-4f34-9fc9-a732f887662c"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-7b00d1ef",
+        "title": "Marvel Studios",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Marvel%20Studios.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.tmdb.discover.plus.stable",
+            "catalogId": "tmdb-44e01030-41b0-4911-b255-c56bf8c5e939"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-95d55e42",
+    "title": "Awards",
+    "folders": [
+      {
+        "id": "folder-e3823de6",
+        "title": "The Oscars",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/oscars-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33535789"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-30951efb",
+        "title": "Golden Globes",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/goldenglobes-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241767"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-82494803",
+        "title": "BAFTA",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/bafta-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24791084"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-22a90f99",
+        "title": "FISA",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/fisa-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.32197432"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-ff35c788",
+        "title": "IFF",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/iff-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.32434377"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-e1243aad",
+        "title": "VIFF",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/viff-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6666498"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-7c098e72",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "folder-1b1ce136",
+        "title": "1960s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1960s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33747299"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-39c6b7b1",
+        "title": "1970s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1970s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33119476"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-f88e5a07",
+        "title": "1980s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1980s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33032956"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-434991ab",
+        "title": "1990s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1990s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33032959"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-87804c15",
+        "title": "2000s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2000s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33032965"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-edbb6821",
+        "title": "2010s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2010s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33032968"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-04d773f6",
+        "title": "2020s",
+        "hideTitle": false,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2020s-poster.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33032971"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  }
+]
