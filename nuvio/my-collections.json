@@ -8,8 +8,8 @@
         "title": "Netflix",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
-        "coverImageUrl": "https://i.postimg.cc/ZRtvY63Z/Netflix.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/netflix.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/netflix.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -29,8 +29,8 @@
         "title": "HBO Max",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
-        "coverImageUrl": "https://i.postimg.cc/JyxzPDPF/HBO-Max.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hbo-max.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hbo-max.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -50,8 +50,8 @@
         "title": "Apple TV",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
-        "coverImageUrl": "https://i.postimg.cc/B69PZ2Dv/Apple-TV.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/apple-tv.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/apple-tv.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -71,8 +71,8 @@
         "title": "Prime Video",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
-        "coverImageUrl": "https://i.postimg.cc/LXKg4jfY/Prime-Video.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/prime-video.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/prime-video.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -92,8 +92,8 @@
         "title": "Disney+",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
-        "coverImageUrl": "https://i.postimg.cc/Y9KL2QgM/Disney.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/disney+.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/disney+.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -113,8 +113,8 @@
         "title": "Crunchyroll",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/6a5b95d56c7a12c7262bd957914edbfd/9036f92d61b5163b-b9/s640x960/1a11b52b9d6344d36a4ae6089f7e611ae19b168a.gifv",
-        "coverImageUrl": "https://i.postimg.cc/4KWVPy1J/Crunchyroll.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/crunchyroll.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/crunchyroll.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -134,8 +134,8 @@
         "title": "Paramount+",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://media.licdn.com/dms/image/v2/C4D22AQF_7RUQ_BodOw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1651179188686?e=1777507200&v=beta&t=-WxvikPQyaA1GAvbTwYVXgKM6s3WqtvQRpLGUf9zgy0",
-        "coverImageUrl": "https://i.postimg.cc/NMq2GRTg/Paramount.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/paramount+.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/paramount+.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -155,8 +155,8 @@
         "title": "Peacock",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/a378bf124ed7d00c8d7430cb8a9ae0cc/9e0da9dbc32641f6-b2/s1280x1920/e8c0ba2f6aadae5b6f532a177926528e94b04d68.gifv",
-        "coverImageUrl": "https://i.postimg.cc/85QfkLW7/Peacock.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/peacock.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/peacock.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -176,8 +176,8 @@
         "title": "Hulu",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://64.media.tumblr.com/3a7015de27b570e421a0182a66d0a69b/0ec3a7379449b39d-2d/s1280x1920/962f0dcfa0a2458bd6bf923ff47776f2404bf43a.gifv",
-        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hulu.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hulu.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -196,7 +196,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": true
+    "focusGlowEnabled": false
   },
   {
     "id": "collection-73124bbd",
@@ -207,7 +207,7 @@
         "title": "A24",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/A24.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/A24.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -222,7 +222,7 @@
         "title": "20th Century Studios",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/20th%20Century%20Studios.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/20th%20Century%20Studios.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -237,7 +237,7 @@
         "title": "Columbia Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Columbia%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Columbia%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -252,7 +252,7 @@
         "title": "Sony Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Sony%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Sony%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -267,7 +267,7 @@
         "title": "Legendary",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Legendary.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Legendary.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -282,7 +282,7 @@
         "title": "Universal Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Universal%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Universal%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -297,7 +297,7 @@
         "title": "Warner Bros. Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Warner%20Bros.%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Warner%20Bros.%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -312,7 +312,7 @@
         "title": "Walt Disney Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Walt%20Disney%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Walt%20Disney%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -327,7 +327,7 @@
         "title": "Lionsgate",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Lionsgate.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Lionsgate.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -342,7 +342,7 @@
         "title": "New Line CInema",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/New%20Line%20Cinema.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/New%20Line%20Cinema.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -357,7 +357,7 @@
         "title": "Paramount Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Paramount%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Paramount%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -372,7 +372,7 @@
         "title": "Metro Goldwyn Mayer",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Metro-Goldwyn-Mayer.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Metro-Goldwyn-Mayer.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -387,12 +387,12 @@
         "title": "DreamWorks Pictures",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/DreamWorks%20Pictures.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/DreamWorks%20Pictures.webp",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-21da87c6-c3c8-4498-84e6-65fdc8cd8193"
+            "catalogId": "tmdb-ec167cd2-bd27-41ce-a8d9-538b16c0eb08"
           }
         ],
         "focusGifEnabled": false
@@ -402,7 +402,7 @@
         "title": "Lucasfilm Ltd.",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Lucasfilm%20Ltd..png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Lucasfilm%20Ltd..webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -417,7 +417,7 @@
         "title": "Pixar",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Pixar%20Animation%20Studios.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Pixar%20Animation%20Studios.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -432,7 +432,7 @@
         "title": "DC",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/DC.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/DC.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -447,7 +447,7 @@
         "title": "Marvel Studios",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/studios/Marvel%20Studios.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Marvel%20Studios.webp",
         "catalogSources": [
           {
             "type": "movie",
@@ -461,7 +461,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": true
+    "focusGlowEnabled": false
   },
   {
     "id": "collection-95d55e42",
@@ -472,7 +472,7 @@
         "title": "The Oscars",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/oscars-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/oscars-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -488,7 +488,7 @@
         "title": "Golden Globes",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/goldenglobes-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/goldenglobes-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -504,7 +504,7 @@
         "title": "BAFTA",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/bafta-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/bafta-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -520,7 +520,7 @@
         "title": "FISA",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/fisa-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/fisa-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -536,7 +536,7 @@
         "title": "IFF",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/iff-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/iff-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -552,7 +552,7 @@
         "title": "VIFF",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/awards/viff-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/viff-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -567,7 +567,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": true
+    "focusGlowEnabled": false
   },
   {
     "id": "collection-7c098e72",
@@ -578,7 +578,7 @@
         "title": "1960s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1960s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1960s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -594,7 +594,7 @@
         "title": "1970s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1970s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1970s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -610,7 +610,7 @@
         "title": "1980s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1980s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1980s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -626,7 +626,7 @@
         "title": "1990s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/1990s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1990s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -642,7 +642,7 @@
         "title": "2000s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2000s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2000s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -658,7 +658,7 @@
         "title": "2010s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2010s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2010s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -674,7 +674,7 @@
         "title": "2020s",
         "hideTitle": false,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://raw.githubusercontent.com/Ashwin-S-Nambiar/dotfiles/refs/heads/main/decades/poster/2020s-poster.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2020s-poster.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -689,6 +689,6 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": true
+    "focusGlowEnabled": false
   }
 ]
