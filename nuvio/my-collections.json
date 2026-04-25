@@ -12,14 +12,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/netflix.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "netflix_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "netflix_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_series"
           }
         ],
         "focusGifEnabled": true
@@ -33,14 +35,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hbo-max.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "hbo_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "hbo_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series"
           }
         ],
         "focusGifEnabled": true
@@ -54,14 +58,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/apple-tv.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "apple_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "apple_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_series"
           }
         ],
         "focusGifEnabled": true
@@ -75,14 +81,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/prime-video.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "amazon_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "amazon_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_series"
           }
         ],
         "focusGifEnabled": true
@@ -96,14 +104,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/disney+.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "disney_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "disney_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_series"
           }
         ],
         "focusGifEnabled": true
@@ -117,14 +127,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/crunchyroll.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "crunchyroll_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "crunchyroll_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_series"
           }
         ],
         "focusGifEnabled": true
@@ -138,14 +150,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/paramount+.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "paramount_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "paramount_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_series"
           }
         ],
         "focusGifEnabled": true
@@ -159,14 +173,16 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/peacock.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "peacock_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "peacock_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_series"
           }
         ],
         "focusGifEnabled": true
@@ -176,18 +192,20 @@
         "title": "Hulu",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hulu.webp",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hulu-originals.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hulu.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "hulu_movies"
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_movie"
           },
           {
             "type": "series",
-            "addonId": "org.kris.ultramax.custom.94715D4A",
-            "catalogId": "hulu_series"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_series"
           }
         ],
         "focusGifEnabled": true
@@ -196,6 +214,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
+    "backdropImageUrl": null,
     "focusGlowEnabled": false
   },
   {
@@ -211,8 +230,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-e523bb11-7648-434b-b5e1-53306ba51ee0"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_e523bb11_7648_434b_b5e1_53306ba51ee0"
           }
         ],
         "focusGifEnabled": false
@@ -226,8 +246,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-d3ab4562-11ab-44ef-ae59-8ec7b22f5192"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_d3ab4562_11ab_44ef_ae59_8ec7b22f5192"
           }
         ],
         "focusGifEnabled": false
@@ -241,8 +262,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-901b827b-4ffb-4a44-b810-16421ed24111"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_901b827b_4ffb_4a44_b810_16421ed24111"
           }
         ],
         "focusGifEnabled": false
@@ -256,8 +278,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-ba625828-88d1-4140-9172-13eeb49f7ff5"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_ba625828_88d1_4140_9172_13eeb49f7ff5"
           }
         ],
         "focusGifEnabled": false
@@ -271,8 +294,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-3b6d4db4-87d2-4b99-8e35-e98035844df7"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_3b6d4db4_87d2_4b99_8e35_e98035844df7"
           }
         ],
         "focusGifEnabled": false
@@ -286,8 +310,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-6878e3a5-3185-47a6-9bc4-9bf1d953754f"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_6878e3a5_3185_47a6_9bc4_9bf1d953754f"
           }
         ],
         "focusGifEnabled": false
@@ -301,8 +326,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-7253eeb1-1775-4a4e-9f53-61d05a3dc363"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_7253eeb1_1775_4a4e_9f53_61d05a3dc363"
           }
         ],
         "focusGifEnabled": false
@@ -316,8 +342,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-9eb92d1f-fb59-4d40-86a7-8e9da43ce781"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_9eb92d1f_fb59_4d40_86a7_8e9da43ce781"
           }
         ],
         "focusGifEnabled": false
@@ -331,8 +358,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-d6dcd145-596f-4da7-aece-073f6c3532f8"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_d6dcd145_596f_4da7_aece_073f6c3532f8"
           }
         ],
         "focusGifEnabled": false
@@ -346,8 +374,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-0c0e72e9-529c-4df5-b276-89d57b8a1bb9"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_0c0e72e9_529c_4df5_b276_89d57b8a1bb9"
           }
         ],
         "focusGifEnabled": false
@@ -361,8 +390,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-6ffda6d1-397e-4c50-8635-4bdaa9486a73"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_6ffda6d1_397e_4c50_8635_4bdaa9486a73"
           }
         ],
         "focusGifEnabled": false
@@ -376,8 +406,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-21da87c6-c3c8-4498-84e6-65fdc8cd8193"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_21da87c6_c3c8_4498_84e6_65fdc8cd8193"
           }
         ],
         "focusGifEnabled": false
@@ -391,8 +422,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-ec167cd2-bd27-41ce-a8d9-538b16c0eb08"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_ec167cd2_bd27_41ce_a8d9_538b16c0eb08"
           }
         ],
         "focusGifEnabled": false
@@ -406,8 +438,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-b4bc5559-6f57-41ad-9b08-5c9b6b7fb878"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_b4bc5559_6f57_41ad_9b08_5c9b6b7fb878"
           }
         ],
         "focusGifEnabled": false
@@ -421,8 +454,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-9a716185-8dad-4efe-85d0-d4df25a83b0e"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_9a716185_8dad_4efe_85d0_d4df25a83b0e"
           }
         ],
         "focusGifEnabled": false
@@ -436,8 +470,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-dc11f7f3-daf0-4f34-9fc9-a732f887662c"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_dc11f7f3_daf0_4f34_9fc9_a732f887662c"
           }
         ],
         "focusGifEnabled": false
@@ -451,8 +486,9 @@
         "catalogSources": [
           {
             "type": "movie",
-            "addonId": "community.tmdb.discover.plus.stable",
-            "catalogId": "tmdb-44e01030-41b0-4911-b255-c56bf8c5e939"
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_44e01030_41b0_4911_b255_c56bf8c5e939"
           }
         ],
         "focusGifEnabled": false
@@ -461,6 +497,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
+    "backdropImageUrl": null,
     "focusGlowEnabled": false
   },
   {
@@ -472,6 +509,8 @@
         "title": "The Oscars",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/oscars-poster.webp",
         "catalogSources": [
           {
@@ -488,6 +527,8 @@
         "title": "Golden Globes",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/goldenglobes-poster.webp",
         "catalogSources": [
           {
@@ -504,6 +545,8 @@
         "title": "BAFTA",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/bafta-poster.webp",
         "catalogSources": [
           {
@@ -520,6 +563,8 @@
         "title": "FISA",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/fisa-poster.webp",
         "catalogSources": [
           {
@@ -536,6 +581,8 @@
         "title": "IFF",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/iff-poster.webp",
         "catalogSources": [
           {
@@ -552,6 +599,8 @@
         "title": "VIFF",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/awards/viff-poster.webp",
         "catalogSources": [
           {
@@ -567,7 +616,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": false
+    "backdropImageUrl": null
   },
   {
     "id": "collection-7c098e72",
@@ -578,6 +627,8 @@
         "title": "1960s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1960s-poster.webp",
         "catalogSources": [
           {
@@ -594,6 +645,8 @@
         "title": "1970s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1970s-poster.webp",
         "catalogSources": [
           {
@@ -610,6 +663,8 @@
         "title": "1980s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1980s-poster.webp",
         "catalogSources": [
           {
@@ -626,6 +681,8 @@
         "title": "1990s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/1990s-poster.webp",
         "catalogSources": [
           {
@@ -642,6 +699,8 @@
         "title": "2000s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2000s-poster.webp",
         "catalogSources": [
           {
@@ -658,6 +717,8 @@
         "title": "2010s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2010s-poster.webp",
         "catalogSources": [
           {
@@ -674,6 +735,8 @@
         "title": "2020s",
         "hideTitle": false,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/decades/2020s-poster.webp",
         "catalogSources": [
           {
@@ -689,6 +752,6 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "focusGlowEnabled": false
+    "backdropImageUrl": null
   }
 ]
