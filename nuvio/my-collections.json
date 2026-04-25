@@ -8,18 +8,17 @@
         "title": "Netflix",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/netflix.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/netflix.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.nfx_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.nfx_series"
           }
@@ -31,18 +30,17 @@
         "title": "HBO Max",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hbo-max.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hbo-max.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.hbm_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.hbm_series"
           }
@@ -54,18 +52,17 @@
         "title": "Apple TV",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/apple-tv.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/apple-tv.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.atp_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.atp_series"
           }
@@ -77,18 +74,17 @@
         "title": "Prime Video",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/prime-video.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/prime-video.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.amp_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.amp_series"
           }
@@ -100,18 +96,17 @@
         "title": "Disney+",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/disney+.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/disney+.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.dnp_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.dnp_series"
           }
@@ -123,18 +118,17 @@
         "title": "Crunchyroll",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/crunchyroll.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/crunchyroll.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.cru_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.cru_series"
           }
@@ -146,18 +140,17 @@
         "title": "Paramount+",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/paramount+.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/paramount+.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pmp_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pmp_series"
           }
@@ -169,18 +162,17 @@
         "title": "Peacock",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/peacock.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/peacock.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pcp_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pcp_series"
           }
@@ -192,18 +184,17 @@
         "title": "Hulu",
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/hulu-originals.webp",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/hulu.webp",
         "catalogSources": [
           {
             "type": "movies",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.hlu_movie"
           },
           {
             "type": "series",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "streaming.hlu_series"
           }
@@ -214,8 +205,7 @@
     "pinToTop": false,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
-    "backdropImageUrl": null,
-    "focusGlowEnabled": false
+    "backdropImageUrl": null
   },
   {
     "id": "collection-73124bbd",
@@ -229,8 +219,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/A24.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_e523bb11_7648_434b_b5e1_53306ba51ee0"
           }
@@ -245,8 +234,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/20th%20Century%20Studios.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_d3ab4562_11ab_44ef_ae59_8ec7b22f5192"
           }
@@ -261,8 +249,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Columbia%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_901b827b_4ffb_4a44_b810_16421ed24111"
           }
@@ -277,8 +264,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Sony%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_ba625828_88d1_4140_9172_13eeb49f7ff5"
           }
@@ -293,8 +279,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Legendary.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_3b6d4db4_87d2_4b99_8e35_e98035844df7"
           }
@@ -309,8 +294,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Universal%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_6878e3a5_3185_47a6_9bc4_9bf1d953754f"
           }
@@ -325,8 +309,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Warner%20Bros.%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_7253eeb1_1775_4a4e_9f53_61d05a3dc363"
           }
@@ -341,8 +324,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Walt%20Disney%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_9eb92d1f_fb59_4d40_86a7_8e9da43ce781"
           }
@@ -357,8 +339,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Lionsgate.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_d6dcd145_596f_4da7_aece_073f6c3532f8"
           }
@@ -373,8 +354,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/New%20Line%20Cinema.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_0c0e72e9_529c_4df5_b276_89d57b8a1bb9"
           }
@@ -389,8 +369,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Paramount%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_6ffda6d1_397e_4c50_8635_4bdaa9486a73"
           }
@@ -405,8 +384,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Metro-Goldwyn-Mayer.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_21da87c6_c3c8_4498_84e6_65fdc8cd8193"
           }
@@ -421,8 +399,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/DreamWorks%20Pictures.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_ec167cd2_bd27_41ce_a8d9_538b16c0eb08"
           }
@@ -437,8 +414,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Lucasfilm%20Ltd..webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_b4bc5559_6f57_41ad_9b08_5c9b6b7fb878"
           }
@@ -453,8 +429,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Pixar%20Animation%20Studios.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_9a716185_8dad_4efe_85d0_d4df25a83b0e"
           }
@@ -469,8 +444,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/DC.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_dc11f7f3_daf0_4f34_9fc9_a732f887662c"
           }
@@ -485,8 +459,7 @@
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/studios/Marvel%20Studios.webp",
         "catalogSources": [
           {
-            "type": "movie",
-            "genre": "None",
+            "type": "movies",
             "addonId": "aio-metadata",
             "catalogId": "custom.community_tmdb_discover_plus_stable.movie.tmdb_44e01030_41b0_4911_b255_c56bf8c5e939"
           }
@@ -515,7 +488,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33535789"
           }
@@ -533,7 +505,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241767"
           }
@@ -551,7 +522,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.24791084"
           }
@@ -569,7 +539,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.32197432"
           }
@@ -587,7 +556,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.32434377"
           }
@@ -605,7 +573,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6666498"
           }
@@ -633,7 +600,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33747299"
           }
@@ -651,7 +617,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33119476"
           }
@@ -669,7 +634,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33032956"
           }
@@ -687,7 +651,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33032959"
           }
@@ -705,7 +668,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33032965"
           }
@@ -723,7 +685,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33032968"
           }
@@ -741,7 +702,6 @@
         "catalogSources": [
           {
             "type": "all",
-            "genre": "None",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.33032971"
           }
