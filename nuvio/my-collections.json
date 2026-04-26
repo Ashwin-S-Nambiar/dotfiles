@@ -76,7 +76,7 @@
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/focus/prime-video.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/prime-video.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Ashwin-S-Nambiar/dotfiles@main/streaming/covers/prime.webp",
         "catalogSources": [
           {
             "type": "movies",
