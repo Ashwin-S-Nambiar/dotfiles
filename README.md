@@ -14,4 +14,6 @@ A collection of custom assets and configuration files used with [Nuvio](https://
 
 - **[Decades](/decades/)** — Poster cover images for decade-based collections (1960s–2020s).
 
-- **[Nuvio](/nuvio/)** — Contains `my-collections.json`, a ready-to-import Nuvio config covering Streaming, Studios, Awards, and Decades collections.
+- **[Nuvio](/nuvio/)** — Ready-to-import Nuvio configs:
+  - `my-collections.json` — collections config covering Streaming, Studios, Awards, and Decades.
+  - `AshwinBadges.json` — stream tag/badge config with 112 pattern-matched badges across 11 groups (Special Tags, Media Source, Resolution, Quality, IMAX, Visual, Audio, Channels, Encoder, Streaming, Language). Each badge matches release titles by regex and renders a styled, image-backed tag on streams.
