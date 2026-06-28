@@ -1,0 +1,357 @@
+[
+  {
+    "id": "collection-7ed89186",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "folder-eaab1657",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/sXvVvmyR/ezgif-6df1df20c255f3b6.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-1c215c42",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/KzRZRfFg/ezgif-6988ed4af5ef74d1.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-8a88ad3e",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/RFNMNd9x/ezgif-61d4aeaf13b22ba4.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-b2410f47",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.cru_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/SKZSS30y/ezgif-698a2a8f54b01c3c.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-cdd82fc5",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hlu_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hlu_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/LXnHnDRH/ezgif-63e0a323df8b1937.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-c0c9d49d",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/KzwmLTvK/ezgif-6f947506a526be52.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-b22e1a8f",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/Ss3m89N2/ezgif-600b99587cd37a82.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-7dca970b",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/y8Cttkbs/Paramount.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": false
+  }
+]
