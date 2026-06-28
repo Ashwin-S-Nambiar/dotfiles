@@ -346,9 +346,52 @@
         ],
         "focusGifEnabled": false,
         "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-454a7cf7",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pcp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pcp_series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/mZV2r8Yh/peacock.gif",
+        "catalogSources": [
+          {
+            "type": "movies",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_movie"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": ""
       }
     ],
-    "pinToTop": false,
+    "pinToTop": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": false,
     "backdropImageUrl": "",
