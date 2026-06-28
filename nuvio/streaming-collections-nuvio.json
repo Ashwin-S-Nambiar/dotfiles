@@ -10,25 +10,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.nfx_movie"
+            "catalogId": "streaming.nfx_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.nfx_series"
+            "catalogId": "streaming.nfx_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/sXvVvmyR/ezgif-6df1df20c255f3b6.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/sXvVvmyR/ezgif-6df1df20c255f3b6.gif",
+        "coverImageUrl": "https://i.postimg.cc/X70kkKXy/Netflix.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -43,7 +59,7 @@
             "catalogId": "streaming.nfx_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -53,25 +69,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.hbm_movie"
+            "catalogId": "streaming.hbm_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.hbm_series"
+            "catalogId": "streaming.hbm_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/KzRZRfFg/ezgif-6988ed4af5ef74d1.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/KzRZRfFg/ezgif-6988ed4af5ef74d1.gif",
+        "coverImageUrl": "https://i.postimg.cc/jqfhf3qh/HBO-Max.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -86,7 +118,7 @@
             "catalogId": "streaming.hbm_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -96,25 +128,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.atp_movie"
+            "catalogId": "streaming.atp_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.atp_series"
+            "catalogId": "streaming.atp_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/RFNMNd9x/ezgif-61d4aeaf13b22ba4.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/RFNMNd9x/ezgif-61d4aeaf13b22ba4.gif",
+        "coverImageUrl": "https://i.postimg.cc/66ZhZb6L/Apple-TV.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -129,7 +177,7 @@
             "catalogId": "streaming.atp_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -139,25 +187,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.cru_movie"
+            "catalogId": "streaming.cru_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.cru_series"
+            "catalogId": "streaming.cru_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/SKZSS30y/ezgif-698a2a8f54b01c3c.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/SKZSS30y/ezgif-698a2a8f54b01c3c.gif",
+        "coverImageUrl": "https://i.postimg.cc/44c1c24Q/Crunchyroll.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -172,7 +236,7 @@
             "catalogId": "streaming.cru_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -182,25 +246,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.hlu_movie"
+            "catalogId": "streaming.hlu_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.hlu_series"
+            "catalogId": "streaming.hlu_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/LXnHnDRH/ezgif-63e0a323df8b1937.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/LXnHnDRH/ezgif-63e0a323df8b1937.gif",
+        "coverImageUrl": "https://i.postimg.cc/G3DjDg3P/Hulu.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -215,7 +295,7 @@
             "catalogId": "streaming.hlu_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -225,25 +305,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.dnp_movie"
+            "catalogId": "streaming.dnp_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.dnp_series"
+            "catalogId": "streaming.dnp_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/KzwmLTvK/ezgif-6f947506a526be52.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/KzwmLTvK/ezgif-6f947506a526be52.gif",
+        "coverImageUrl": "https://i.postimg.cc/fThff7kd/Disney.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -258,7 +354,7 @@
             "catalogId": "streaming.dnp_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -268,25 +364,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.amp_movie"
+            "catalogId": "streaming.amp_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.amp_series"
+            "catalogId": "streaming.amp_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/Ss3m89N2/ezgif-600b99587cd37a82.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/Ss3m89N2/ezgif-600b99587cd37a82.gif",
+        "coverImageUrl": "https://i.postimg.cc/ZKhxxP0d/Prime-Video.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -301,7 +413,7 @@
             "catalogId": "streaming.amp_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -311,25 +423,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.pmp_movie"
+            "catalogId": "streaming.pmp_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.pmp_series"
+            "catalogId": "streaming.pmp_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/y8Cttkbs/Paramount.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/y8Cttkbs/Paramount.gif",
+        "coverImageUrl": "https://i.postimg.cc/kXdvvNDQ/Paramount.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -344,7 +472,7 @@
             "catalogId": "streaming.pmp_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       },
       {
@@ -354,25 +482,41 @@
           {
             "type": "movies",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.pcp_movie"
+            "catalogId": "streaming.pcp_movie",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           },
           {
             "type": "series",
             "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
             "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
             "provider": "addon",
-            "catalogId": "streaming.pcp_series"
+            "catalogId": "streaming.pcp_series",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "",
+        "focusGifUrl": "https://i.postimg.cc/mZV2r8Yh/peacock.gif",
         "heroVideoUrl": "",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/mZV2r8Yh/peacock.gif",
+        "coverImageUrl": "https://i.postimg.cc/DyKPPQm1/Peacock.webp",
         "catalogSources": [
           {
             "type": "movies",
@@ -387,7 +531,7 @@
             "catalogId": "streaming.pcp_series"
           }
         ],
-        "focusGifEnabled": false,
+        "focusGifEnabled": true,
         "heroBackdropUrl": ""
       }
     ],
